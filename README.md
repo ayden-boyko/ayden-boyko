@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✌️ About Me:
 I am actively engaged in developing a full-stack rideshare application akin to industry giants like Uber or Lyft. <br>Fullstack development is my passion, encompassing every aspect from front-end styling to back-end optimization and project organization. <br>Continuously learning new technologies is a cornerstone of my approach, constantly enhancing my projects with innovative solutions. <br>This drive to explore and innovate keeps me consistently engaged in creating new projects almost as quickly as I conceive them. <br>Beyond coding, I find joy in rock climbing, cooking, and reading, balancing my life outside of development with diverse interests and pursuits.
 
 
