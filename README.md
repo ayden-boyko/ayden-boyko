@@ -12,7 +12,7 @@ I am actively engaged in developing a full-stack rideshare application akin to i
 # 📊 Developer Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayden-boyko&theme=apprentice&hide_border=false&hide_progress=true&exclude_repo=Embedded_midi_player,BLE_Messenger) </br>
 ## Favorite Web Dev Tech
-1. ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+1. ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white$border=2px)
 3. ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 4. ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 5. ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
