@@ -34,7 +34,7 @@ I am actively engaged in developing a Url Shortener hosted on my personal Golang
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 # Current Project
-[Piranid] (https://github.com/ayden-boyko/Piranid)
+![Piranid](https://github.com/ayden-boyko/Piranid/blob/main/README.md)
 
 # 📊 Developer Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayden-boyko&theme=apprentice&hide_border=false&hide_progress=true&exclude_repo=Embedded_midi_player,BLE_Messenger) </br>
