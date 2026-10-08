@@ -88,6 +88,6 @@ A local alternative to cloud camera vendors. An OpenCV motion gate skips idle fo
 **AI:** Claude API, MCP, smolagents, agentic workflows  
 
 ## Earlier Work  
-- [MyChat](https://github.com/ayden-boyko/MyChat) (*[Mon YYYY]*): real-time chat app (MongoDB, Express, React, Node, WebSockets) with rooms, DMs and message history.
+- [MyChat](https://github.com/ayden-boyko/MyChat) (*[Sept 2024 - Nov 2024]*): real-time chat app (MongoDB, Express, React, Node, WebSockets) with rooms, DMs and message history.
 
 Outside of code: rock climbing, cooking, and reading.
