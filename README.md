@@ -1,6 +1,6 @@
 # Ayden Boyko
 
-Software engineer (RIT '26, B.S. Software Engineering) based in San Francisco. I build full-stack products, backend systems, and AI-agent tooling, and I like shipping things I can actually use.
+Software engineer (RIT '26, B.S. Software Engineering) based in San Francisco. I build full-stack products, backend systems, and AI-agent tooling.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayden-boyko-ajb)
 [![Website](https://img.shields.io/badge/Website-ayden--boyko--website.vercel.app-black)](https://ayden-boyko-website.vercel.app/)
