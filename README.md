@@ -33,12 +33,12 @@ A K3s cluster (Pi 4B control plane, four Pi Zero 2W workers on a Cluster HAT) ru
 - **RIT (Software Engineering Intern):** applied TDD to a platform used by 1,000+ students and cut recorded bugs from 34 to 6 across two releases.
 
 ## Stack
-**Languages:** Python, TypeScript, Go, Java, C++, SQL
-**Frontend:** React, React Native, Next.js, Tauri
-**Backend/Infra:** Node, Spring Boot, Flask, PostgreSQL, AWS (Lambda, Cognito, RDS), K3s, Docker, RabbitMQ, gRPC, GitHub Actions
-**AI:** Claude API, MCP, smolagents, agentic workflows
+**Languages:** Python, TypeScript, Go, Java, C++, SQL  
+**Frontend:** React, React Native, Next.js, Tauri  
+**Backend/Infra:** Node, Spring Boot, Flask, PostgreSQL, AWS (Lambda, Cognito, RDS), K3s, Docker, RabbitMQ, gRPC, GitHub Actions  
+**AI:** Claude API, MCP, smolagents, agentic workflows  
 
-## Earlier Work
+## Past Projects
 - [MyChat](https://github.com/ayden-boyko/MyChat): real-time chat app (MongoDB, Express, React, Node, WebSockets) with rooms, DMs and message history.
 
 Outside of code: rock climbing, cooking, and reading.
