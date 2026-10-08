@@ -53,7 +53,7 @@ A K3s cluster (Pi 4B control plane, four Pi Zero 2W workers on a Cluster HAT) ru
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana_·_Tempo-F46800?logo=grafana&logoColor=white)
 
-Five-engineer capstone, and I was the sole point of contact with the charity partner. I built the RabbitMQ messaging layer (ordering guarantees, retries) and the CI/CD test stack, including headless Krita and merge-blocking E2E tests. The Grafana/Tempo dashboards I set up exposed a live-stream race condition.
+Five-engineer capstone, and I was the sole point of contact with the charity partner. I built the RabbitMQ messagcing layer (ordering guarantees, retries) and the CI/CD test stack, including headless Krita and merge-blocking E2E tests. The Grafana/Tempo dashboards I set up exposed a live-stream race condition.
 
 ### AI Smart-Home Security Pipeline  
 *[July 2026] - present*  
@@ -70,7 +70,7 @@ A local alternative to cloud camera vendors. An OpenCV motion gate skips idle fo
 
 ## Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayden-boyko&layout=compact&hide_border=true&langs_count=8&hide=html,css,c)](https://github.com/ayden-boyko?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayden-boyko&layout=compact&hide_border=true&langs_count=8&hide=html,css,c,makefile)](https://github.com/ayden-boyko?tab=repositories)
 
 *Based on my public repositories only. Production work at Bespin Global (Java, Go) and my private dental project (TypeScript) aren't included.*
 
