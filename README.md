@@ -1,6 +1,6 @@
 # Ayden Boyko
 
-Software engineer (RIT '26, B.S. Software Engineering) based in San Francisco. I build full-stack products, backend systems, and AI-agent tooling, and I like shipping things people actually use.
+Software engineer (RIT '26, B.S. Software Engineering) based in San Francisco. I build full-stack products, backend systems, and AI-agent tooling, and I like shipping things cpeople actually use.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayden-boyko-ajb)
 [![Website](https://img.shields.io/badge/Website-ayden--boyko--website.vercel.app-black)](https://ayden-boyko-website.vercel.app/)
@@ -14,7 +14,9 @@ Software engineer (RIT '26, B.S. Software Engineering) based in San Francisco. I
 [![Live Demo](https://img.shields.io/badge/Live_Demo-words--of--perio.vercel.app-2ea44f)](https://words-of-perio.vercel.app/)
 ![Source](https://img.shields.io/badge/Source-private-lightgrey)
 ![Status](https://img.shields.io/badge/Status-in_user_testing-blue)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Rust](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_Lambda_·_Cognito_·_RDS-232F3E?logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -72,7 +74,7 @@ A local alternative to cloud camera vendors. An OpenCV motion gate skips idle fo
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayden-boyko&layout=compact&hide_border=true&langs_count=8&hide=html,css,c,makefile)](https://github.com/ayden-boyko?tab=repositories)
 
-*Based on my public repositories only. Production work at Bespin Global (Java, Go) and my private dental project (TypeScript) aren't included.*
+*Based on my public repositories only. Production work at Bespin Global (Java, Go) and my private dental project (TypeScript, Rust) aren't included.*
 
 ## Experience
 - **Bespin Global, Platform Service Intern** (May 2025 – Aug 2025): built a Claude + MCP + Cypress E2E testing agent that cut test time 73% (2m30s → 40s). Shipped an email campaign platform (Spring Boot, React) used by Sales and Marketing. Found a Go goroutine-pool bottleneck and cut send time from 30 min to 30 sec.
