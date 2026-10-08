@@ -70,7 +70,7 @@ A local alternative to cloud camera vendors. An OpenCV motion gate skips idle fo
 
 ## Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayden-boyko&layout=compact&hide_border=true&langs_count=8)](https://github.com/ayden-boyko?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayden-boyko&layout=compact&hide_border=true&langs_count=8&hide=html,css,c)](https://github.com/ayden-boyko?tab=repositories)
 
 *Based on my public repositories only. Production work at Bespin Global (Java, Go) and my private dental project (TypeScript) aren't included.*
 
