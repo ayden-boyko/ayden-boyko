@@ -9,17 +9,17 @@ Software engineer (RIT '26, B.S. Software Engineering) based in San Francisco. I
 ## Featured Projects
 
 ### Words of Perio: voice-driven dental charting
-**React · Tauri · AWS Lambda · Cognito · PostgreSQL (RDS) · Moonshine STT**
+**React · Tauri · AWS Lambda · Cognito · PostgreSQL (RDS) · Moonshine STT**  
 Built at a dentist's request as a cheaper alternative to commercial voice-charting software. The dentist calls out findings and the chart fills in hands-free, so the assistant is free to help other patients. Speech-to-text runs on-device (Moonshine), so patient audio never reaches third-party servers. Charts export to PDF for the practice's patient database. It's in user testing at the practice, and I'm rebuilding the client in Tauri from their feedback.
 [Live demo](https://words-of-perio.vercel.app/) · *Source is private; happy to walk through the code on a call.*
 
 ### AI Smart-Home Security Pipeline
-**Python · Qwen3-VL · smolagents · DeepSeek · WebRTC · Raspberry Pi**
+**Python · Qwen3-VL · smolagents · DeepSeek · WebRTC · Raspberry Pi**  
 A local alternative to cloud camera vendors. An OpenCV motion gate skips idle footage before any model runs. Flagged frames go to Qwen3-VL for structured JSON classification, and a smolagents triage agent decides urgency, deduplicates alerts, and routes notifications.
 [Repo](https://github.com/ayden-boyko/home-sec)
 
 ### Piranid: Go microservices on a Raspberry Pi Kubernetes cluster
-**Go · K3s · gRPC · RabbitMQ · OpenTelemetry · Grafana/Tempo/Loki/Prometheus**
+**Go · K3s · gRPC · RabbitMQ · OpenTelemetry · Grafana/Tempo/Loki/Prometheus**  
 A K3s cluster (Pi 4B control plane, four Pi Zero 2W workers on a Cluster HAT) running Go microservices under 512MB–1GB of RAM per node. The goal was to work through service design, inter-service communication and observability under real hardware limits.
 - **Auth service:** OAuth 2.0 authorization code flow with mandatory PKCE, RS256 JWTs, and a JWKS endpoint. Only the auth service holds a signing key, so a compromised service can verify tokens but not mint them.
 - **Event queue and notifications:** an HTTP RabbitMQ administration API and a gRPC email/SMS delivery service with a queue consumer.
