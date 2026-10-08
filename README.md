@@ -82,10 +82,10 @@ A local alternative to cloud camera vendors. An OpenCV motion gate skips idle fo
 - **Rochester Institute of Technology, Software Engineering Intern** (Jan 2025 – May 2025): applied TDD to a platform used by 1,000+ students and cut recorded bugs from 34 to 6 across two releases.
 
 ## Stack
-**Languages:** Python, TypeScript, Go, Java, C++, SQL  
+**Languages:** Python, TypeScript, Go, Java, SQL  
 **Frontend:** React, React Native, Next.js, Tauri  
-**Backend/Infra:** Node, Spring Boot, Flask, PostgreSQL, AWS (Lambda, Cognito, RDS), K3s, Docker, RabbitMQ, gRPC, GitHub Actions  
-**AI:** Claude API, MCP, smolagents, agentic workflows  
+**Backend/Infra:** Node, Spring Boot, Flask, PostgreSQL, AWS, K3s, Docker, RabbitMQ, gRPC, GitHub Actions  
+**AI:** Claude API, OpenCode, MCP, smolagents, agentic workflows  
 
 ## Earlier Work  
 - [MyChat](https://github.com/ayden-boyko/MyChat) (*[Sept 2024 - Nov 2024]*): real-time chat app (MongoDB, Express, React, Node, WebSockets) with rooms, DMs and message history.
