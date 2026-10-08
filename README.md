@@ -66,7 +66,7 @@ Five-engineer capstone, and I was the sole point of contact with the charity par
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
-![smolagents](https://img.shields.io/badge/smolagents_·_Qwen3--VL_?logo=huggingface&logoColor=black)
+![smolagents](https://img.shields.io/badge/smolagents_·_Qwen3--VL?logo=huggingface&logoColor=black)
 
 A local alternative to cloud camera vendors. An OpenCV motion gate skips idle footage before any model runs. Flagged frames go to Qwen3-VL for structured JSON classification, and a smolagents triage agent decides urgency, deduplicates alerts, and routes notifications.
 
